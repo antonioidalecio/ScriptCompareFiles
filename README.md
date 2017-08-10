@@ -15,4 +15,5 @@ Você deverá substituir CODEFILE pelo nome do seu programa, e caso necessário,
 Depois de seguidos todos os passos acima basta fazer o arquivo executável e executá-lo:
 
 chmod +x compare2files.sh
+
 ./compare2files.sh
